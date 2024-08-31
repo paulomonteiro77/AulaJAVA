@@ -67,3 +67,6 @@ public class Tarefa {
         tarefa.exibirDetalhes();
     }
 }
+
+// Paulo Sérgio Monteiro Lopes Filho - 04173731
+// Shayra Diovanna Vieira MArques - 04173413 
